@@ -12,7 +12,7 @@ Much of the what we did as a team focused on finding how many
 people move between each pool at each step in their MSF career and using this to make 
 predictions about the number of MedCos grown.
 
-** TASK
+** TASK **
 
 Our task was to craft a clear, creative, compelling, and informative visualization that gave insight 
 into movement and career paths of medical coordinators from their first mission to their last and 
