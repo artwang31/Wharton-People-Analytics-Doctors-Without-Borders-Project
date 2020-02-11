@@ -92,3 +92,5 @@ fviz_pca_ind(data_test, geom.ind = "point", pointshape = 21,
 mean(data$duration_days)
 str(data$duration_days)
 
+ggplot(data, aes(x = job_title, y = assignment_number)) +
+  geom_boxplot()
