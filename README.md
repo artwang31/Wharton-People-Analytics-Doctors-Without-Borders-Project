@@ -17,3 +17,9 @@ predictions about the number of MedCos grown.
 Our task was to craft a clear, creative, compelling, and informative visualization that gave insight 
 into movement and career paths of medical coordinators from their first mission to their last and 
 into key positions such as the MedCo role.
+
+** Running Visuals on Exploratory Data Analysis ** 
+
+![Total Assignments per Country Top 20](https://github.com/artwang31/Wharton-People-Analytics-Competition-2020/blob/master/Total%20Assignments%20per%20Country.png)
+
+![Average Days on Assignments per Position](https://github.com/artwang31/Wharton-People-Analytics-Competition-2020/blob/master/Average%20Days%20on%20Assignments%20Per%20Position.png)
