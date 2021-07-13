@@ -1,6 +1,6 @@
 # Wharton-People-Analytics-Competition-2020
 
-To deliver lifesaving medical care in over 70 countries, Médecins Sans Frontières (MSF)/Doctors Without Borders 
+Project Overview: To deliver lifesaving medical care in over 70 countries, Médecins Sans Frontières (MSF)/Doctors Without Borders 
 relies on people. MSF’s global workforce is comprised of over 45,000 people working in country projects (the ‘field’) 
 and headquarter (HQ) offices managed by Operational Centers.
 
