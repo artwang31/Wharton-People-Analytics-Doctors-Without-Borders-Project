@@ -14,7 +14,7 @@ predictions about the number of MedCos grown.
 
 ** TASK **
 
-Our task was to craft a clear, creative, compelling, and informative visualization that gave insight 
+Our task was to compose a clear, creative, compelling, and informative visualization that gave insight 
 into movement and career paths of medical coordinators from their first mission to their last and 
 into key positions such as the MedCo role.
 
