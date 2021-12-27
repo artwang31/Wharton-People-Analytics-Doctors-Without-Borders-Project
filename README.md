@@ -9,7 +9,7 @@ to plot the career path from the first field assignment onwards to better unders
 people move between assignments and roles on their way to becoming a Coordinator.
 
 Much of the what we did as a team focused on finding how many
-people move between each pool at each step in their MSF career and using this to make 
+people move between each pool at each step in their MSF career and using this to make
 predictions about the number of MedCos grown.
 
 ** TASK **
