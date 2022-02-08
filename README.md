@@ -16,7 +16,7 @@ predictions about the number of MedCos grown.
 
 Our task was to compose a clear, creative, compelling, and informative visualization that provided insight 
 into movement and the career paths of medical coordinators from their first mission to their last and 
-into key positions such as the MedCo role.
+into key positions such as the MedCo role. 
 
 ** Running Visuals on Exploratory Data Analysis **
 
