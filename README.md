@@ -2,7 +2,7 @@
 
 Project Overview: To deliver lifesaving medical care in over 70 countries, Médecins Sans Frontières (MSF)/Doctors Without Borders 
 relies on people. MSF’s global workforce is comprised of over 45,000 people working in country projects (the ‘field’) 
-and headquarter (HQ) offices managed by Operational Centers.
+and headquarter (HQ) offices managed by Operational Centers. 
 
 The first steps we as a team took to better understand the movement of International Staff was 
 to plot the career path from the first field assignment onwards to better understand how 
